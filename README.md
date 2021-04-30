@@ -1,0 +1,2 @@
+# food_delivering_system
+A food delivery company has 'n' number of delivery executives,There are only 5 restaurants in the city for pick-up and 5 drop locations (Each location can have multiple customers) After delivering a food package , the delivery executive waits there for delivery allotment. . Assign the subsequent bookings giving preference to the executive who has earned the least delivery charge.
